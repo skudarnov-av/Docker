@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="docker">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/db-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/db-api-for-docker.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
